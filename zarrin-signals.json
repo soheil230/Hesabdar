@@ -1,37 +1,25 @@
 {
- "updated_at": "2026-11-09T16:41:00+03:30",
+ "updated_at": "2026-11-09T23:12:14+03:30",
  "scoreboard": {
   "wins": 2,
   "losses": 4,
   "net_r": 0.0
  },
- "active": null,
+ "active": {
+  "display_time": "۲۳:۱۰ — ۱۸ آبان ۱۴۰۵",
+  "direction": "buy",
+  "entry": 4118.9,
+  "sl": 4108.6,
+  "tp": 4139.6
+ },
  "recent": [
   {
-   "display_time": "۲۰:۳۰ — ۱۴ آبان ۱۴۰۵",
+   "display_time": "۱۵:۱۰ — ۱۸ آبان ۱۴۰۵",
    "direction": "buy",
-   "entry": 4133.7,
-   "exit": 4114.8,
-   "status": "loss",
-   "pnl": -18.9,
-   "r": -1.0
-  },
-  {
-   "display_time": "۱۲:۱۰ — ۱۵ آبان ۱۴۰۵",
-   "direction": "buy",
-   "entry": 4073.6,
-   "exit": 4060.4,
-   "status": "loss",
-   "pnl": -13.2,
-   "r": -1.0
-  },
-  {
-   "display_time": "۲۰:۱۰ — ۱۵ آبان ۱۴۰۵",
-   "direction": "buy",
-   "entry": 4072.4,
-   "exit": 4099.8,
+   "entry": 4116.1,
+   "exit": 4133.7,
    "status": "win",
-   "pnl": 27.4,
+   "pnl": 17.6,
    "r": 2.0
   },
   {
@@ -44,13 +32,31 @@
    "r": -1.0
   },
   {
-   "display_time": "۱۵:۱۰ — ۱۸ آبان ۱۴۰۵",
+   "display_time": "۲۰:۱۰ — ۱۵ آبان ۱۴۰۵",
    "direction": "buy",
-   "entry": 4116.1,
-   "exit": 4133.7,
+   "entry": 4072.4,
+   "exit": 4099.8,
    "status": "win",
-   "pnl": 17.6,
+   "pnl": 27.4,
    "r": 2.0
+  },
+  {
+   "display_time": "۱۲:۱۰ — ۱۵ آبان ۱۴۰۵",
+   "direction": "buy",
+   "entry": 4073.6,
+   "exit": 4060.4,
+   "status": "loss",
+   "pnl": -13.2,
+   "r": -1.0
+  },
+  {
+   "display_time": "۲۰:۳۰ — ۱۴ آبان ۱۴۰۵",
+   "direction": "buy",
+   "entry": 4133.7,
+   "exit": 4114.8,
+   "status": "loss",
+   "pnl": -18.9,
+   "r": -1.0
   }
  ]
 }
