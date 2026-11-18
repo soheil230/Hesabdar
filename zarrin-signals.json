@@ -1,11 +1,17 @@
 {
- "updated_at": "2026-11-18T16:41:07+03:30",
+ "updated_at": "2026-11-18T18:42:14+03:30",
  "scoreboard": {
   "wins": 6,
   "losses": 6,
   "net_r": 6.0
  },
- "active": null,
+ "active": {
+  "display_time": "۱۸:۴۱ — ۲۷ آبان ۱۴۰۵",
+  "direction": "sell",
+  "entry": 3772.7,
+  "sl": 3787.5,
+  "tp": 3743.1
+ },
  "recent": [
   {
    "display_time": "۱۳:۱۰ — ۲۰ آبان ۱۴۰۵",
