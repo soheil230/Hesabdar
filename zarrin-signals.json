@@ -1,27 +1,12 @@
 {
- "updated_at": "2026-11-20T16:11:14+03:30",
+ "updated_at": "2026-11-20T19:11:39+03:30",
  "scoreboard": {
-  "wins": 8,
+  "wins": 9,
   "losses": 6,
-  "net_r": 10.0
+  "net_r": 11.99
  },
- "active": {
-  "display_time": "۱۶:۱۰ — ۲۹ آبان ۱۴۰۵",
-  "direction": "sell",
-  "entry": 3576.2,
-  "sl": 3591.7,
-  "tp": 3545.3
- },
+ "active": null,
  "recent": [
-  {
-   "display_time": "۱۳:۱۰ — ۲۵ آبان ۱۴۰۵",
-   "direction": "sell",
-   "entry": 3860.8,
-   "exit": 3872.9,
-   "status": "loss",
-   "pnl": -12.1,
-   "r": -1.0
-  },
   {
    "display_time": "۱۲:۱۰ — ۲۶ آبان ۱۴۰۵",
    "direction": "sell",
@@ -57,6 +42,15 @@
    "status": "win",
    "pnl": 24.0,
    "r": 2.0
+  },
+  {
+   "display_time": "۱۶:۱۰ — ۲۹ آبان ۱۴۰۵",
+   "direction": "sell",
+   "entry": 3576.2,
+   "exit": 3545.3,
+   "status": "win",
+   "pnl": 30.9,
+   "r": 1.99
   }
  ]
 }
